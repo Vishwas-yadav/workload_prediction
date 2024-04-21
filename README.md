@@ -2,6 +2,7 @@
 This repository contains code for predicting CPU utilization, Memory Utilization using an attention-based LSTM model and ARIMA model. The experiment was conducted in Google Colab Pro environment.
 
 It contains two folders:
+
 -The 'code' folder contains all the code files along with the respective datasets and model architectures.
 -The 'Result_Graph' folder contains all the graphs generated from the experiments that we had performed. Each graph corresponds to a specific experiment and provides insights into the model's performance.
 
