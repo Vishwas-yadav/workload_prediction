@@ -4,6 +4,7 @@ This repository contains code for predicting CPU utilization, Memory Utilization
 It contains two folders:
 
 -The 'code' folder contains all the code files along with the respective datasets and model architectures.
+
 -The 'Result_Graph' folder contains all the graphs generated from the experiments that we had performed. Each graph corresponds to a specific experiment and provides insights into the model's performance.
 
 
@@ -29,8 +30,10 @@ You can install the required packages using the following commands:
 !pip install pykalman
 ```
 
-Usage:
+## Usage
 Clone this repository.
+
 Install the required packages as mentioned above.
+
 Run the provided Jupyter Notebook to execute the experiment.
 
