@@ -1,5 +1,5 @@
 # workload_prediction
-This repository contains code for predicting CPU utilization, Memory Utilization using an attention-based LSTM model and ARIMA model. The experiment was conducted in Google Colab Pro environment.
+This repository contains code for predicting CPU utilization, Memory Utilization using an attention-based LSTM/Bi-LSTM/GRU model and ARIMA model. The experiment was conducted in Google Colab Pro environment.
 
 It contains two folders:
 
