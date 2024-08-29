@@ -21,7 +21,7 @@ folder_path = '/content/drive/MyDrive/dataset_cloud/Materna_modified_ds/Materena
 
 
 # Get the list of files in the folder
-file_list = [file for file in os.listdir(folder_path) if file.endswith('.csv')]  # Limit to the first 10 CSV files
+file_list = [file for file in os.listdir(folder_path) if file.endswith('.csv')] 
 
 # Initialize lists to store MAE and MSE for each file
 mae_list = []
