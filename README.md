@@ -52,6 +52,3 @@ cluster-trace-v2018. Accessed: April 20, 2024 (2024)
 3.PlanetsLab: https://github.com/beloglazov/planetlab-workload-traces.
 4.MicrosoftAzure: https://github.com/Azure/AzurePublicDataset.
 5.Bitbrains: http://gwa.ewi.tudelft.nl/datasets/gwa-t-12-bitbrains.
-
-
-## PLEASE NOTE: This work is currently under review ##
